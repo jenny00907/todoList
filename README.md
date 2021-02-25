@@ -10,9 +10,9 @@
 </p>
 
 <p align="row">
-  <img src="screenshot.png" alt="Logo" width="300" height="650">
-  <img src="screenshot1.png" alt="Logo" width="300" height="650">
-  <img src="screenshot2.png" alt="Logo" width="300" height="650">
+  <img src="screenshot.png" alt="Logo" width="250" height="550">
+  <img src="screenshot1.png" alt="Logo" width="250" height="550">
+  <img src="screenshot2.png" alt="Logo" width="250" height="550">
  </p>
 <p> TodoList is an app that saves and organizes categorie-tasks to remember reminders in the item <p> 
 <li>Items by Category</li>
